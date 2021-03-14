@@ -3,4 +3,5 @@
   * About page store in public folder
   * Support Single and Multiple page application using vue router
   * Script to publish windows 64 bits releases on GitHub
+  * Icon creation
 # MySFPal Application Builds
