@@ -3,13 +3,13 @@
 # Releases Notes
 
 * v0.3.0: 2021-03-21
- * Clean Menu
- * Use RouterView and Dynamic Component
- * Alias Selector - WIP
- * SObject Plus - WIP
+  * Clean Menu
+  * Use RouterView and Dynamic Component
+  * Alias Selector - WIP
+  * SObject Plus - WIP
 
 * v0.2.1: 2021-03-14
- * Adding contextMenu 
+  * Adding contextMenu 
   
 * v0.2.1: 2021-03-14
   * About page store in public folder - NOT Working once package for production - TODO
