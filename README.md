@@ -1,6 +1,7 @@
 # MySFPal Application Builds
-This app is a proof-of-concept more than anything else. 
-__Disclaimer__: This app is develop solely based on my own need & based on the repetitive taks. 
+This app is a proof-of-concept more than anything else.
+
+__Disclaimer__: This app is develop solely based on my own needs :-) 
 
 # Introduction
 MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
