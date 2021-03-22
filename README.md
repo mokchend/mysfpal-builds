@@ -18,7 +18,7 @@ the hassle to provide credentials or remember the multitude parameters to provid
 *  I wanted to keep and maintain my full stack development skills while exploring new technologies & horizon
   
 ## How ?
-A cross platform Multi Page Application to integract with your multiple Salesforce instance.
+A cross platform Multi Page Application to interact with your multiple Salesforce instance.
 
 ## What ?
 This tool is heavily relying on the following technologies :
@@ -42,6 +42,7 @@ This tool is heavily relying on the following technologies :
 > Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 Big thanks to thoses amazing products and the Open Source community!
+
 __Note__: Combining thoses differents technologies into one single application is not an easy task. 
 But I really enjoyed working on this application during my week-end & spare time. 
 It is also rewarding to see how this application helps me to optimize my time while working on Salesforce.
