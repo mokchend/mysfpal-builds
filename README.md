@@ -11,7 +11,13 @@ I wanted a tool to easily repeat the same task over differents sandbox in a simp
 the hassle to provide credentials or remember the multitude parameters to provide to the SFDX command line. 
 
 ## How ?
-This tool is heavily relying on [sfdx|https://developer.salesforce.com/tools/sfdxcli], [jsForce|https://jsforce.github.io/] & [Gulp Tasks|https://gulpjs.com/]
+This tool is heavily relying on the following technolgies :
+* [sfdx](https://developer.salesforce.com/tools/sfdxcli)
+* [jsForce](https://jsforce.github.io/)
+* [Gulp Tasks](https://gulpjs.com/) > A toolkit to automate & enhance your workflow
+* [Vue JS](https://vuejs.org/) > The Progressive JavaScript Framework
+* [Electron ](https://vuejs.org/) > Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
 
 
 # Releases Notes
