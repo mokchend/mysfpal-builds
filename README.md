@@ -7,6 +7,12 @@ As a Salesforce Admin user, I have often use different tools & plugins to connec
 all my customer instance (from development, integration,acceptance & production sandbox).
 
 ## Why ?
+I wanted a tool to easily repeat the same task over differents sandbox in a simple and easy way without 
+the hassle  to provide credentials and 
+
+## How ?
+This tool is heavily relying on sfdx & (jsForce|https://jsforce.github.io/)
+
 
 # Releases Notes
 * Not released
