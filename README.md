@@ -4,6 +4,10 @@ This app is a proof-of-concept more than anything else.
 __Disclaimer__: 
 This app is develop solely based on my own requirements :-) 
 I wanted to keep and maintain my full stack development skills while exploring new technologies & horizons.
+Requirements
+
+# Pre-Requisite
+* [sfdx](https://developer.salesforce.com/tools/sfdxcli)
 
 # Introduction
 MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
