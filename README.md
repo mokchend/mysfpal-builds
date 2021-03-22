@@ -13,9 +13,9 @@ As a Salesforce Admin user, I have often use different tools & plugins to connec
 all my Salesforce instance (from development, integration,acceptance & production sandbox).
 
 ## Why ?
-1/ I wanted a tool to easily repeat the same task over differents sandbox in a simple and easy way without 
+*  I wanted a tool to easily repeat the same task over differents sandbox in a simple and easy way without 
 the hassle to provide credentials or remember the multitude parameters to provide to the SFDX command line. 
-2/ I wanted to keep and maintain my full stack development skills while exploring new technologies & horizon
+*  I wanted to keep and maintain my full stack development skills while exploring new technologies & horizon
   
 ## How ?
 A cross platform Multi Page Application to integract with your multiple Salesforce instance.
