@@ -41,7 +41,7 @@ This tool is heavily relying on the following technologies :
 Big thanks to thoses amazing products and the Open Source community!
 __Note__: Combining thoses differents technologies into one single application is not an easy task. 
 But I really enjoyed working on this application during my week-end & spare time. 
-It is also rewarding to see this application helping me to optimize my time while working on Salesforce.
+It is also rewarding to see how this application helps me to optimize my time while working on Salesforce.
 
 # Releases Notes
 * Not released
