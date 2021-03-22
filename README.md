@@ -8,10 +8,10 @@ all my customer instance (from development, integration,acceptance & production 
 
 ## Why ?
 I wanted a tool to easily repeat the same task over differents sandbox in a simple and easy way without 
-the hassle  to provide credentials and 
+the hassle to provide credentials or remember the multitude parameters to provide to the SFDX command line. 
 
 ## How ?
-This tool is heavily relying on sfdx & (jsForce|https://jsforce.github.io/)
+This tool is heavily relying on [sfdx|https://developer.salesforce.com/tools/sfdxcli], [jsForce|https://jsforce.github.io/] & [Gulp Tasks|https://gulpjs.com/]
 
 
 # Releases Notes
