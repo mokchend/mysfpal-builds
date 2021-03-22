@@ -1,6 +1,15 @@
+# MySFPal Application Builds
+
 # Introduction
+MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
+As a Salesforce Admin user, I have often use different tools & plugins to connect and interact with 
+all my customer instance (from development, integration,acceptance & production sandbox).
+
 
 # Releases Notes
+
+* v0.3.1: 2021-03-21
+  * Add modal About Window
 
 * v0.3.0: 2021-03-21
   * Clean Menu
@@ -19,4 +28,3 @@
   * Icon creation
   
   
-# MySFPal Application Builds
