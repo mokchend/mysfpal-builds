@@ -2,7 +2,10 @@
 This app is a proof-of-concept more than anything else.
 
 __Disclaimer__: 
-This app is develop solely based on my own requirements :-) 
+I've worked on this application on my free time since March 2021 and it's been a great experience. 
+This app is develop solely based on my own needs & requirements :-) 
+
+Regardless of your contribution, thanks for your support!
 
 # Pre-Requisite
 * [sfdx](https://developer.salesforce.com/tools/sfdxcli)
