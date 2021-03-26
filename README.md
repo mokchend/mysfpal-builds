@@ -2,8 +2,9 @@
 This app is a proof-of-concept more than anything else.
 
 __Disclaimer__: 
-I've worked on this application on my free time since March 2021 and it's been a great experience. 
-This app is develop solely based on my own needs & requirements :-) 
+I've worked on this application on my free/spare time since March 2021 and it's been a great experience turning my full stack development skills into action.
+This app represent a reflection of my current thinking and is develop solely based on my own needs & requirements :-) 
+The views expressed in this document are those of the author(s) and do not represent the views of Salesforce, nor other companies (directly or indirectly) associated with the author.
 
 # Pre-Requisite
 * [sfdx](https://developer.salesforce.com/tools/sfdxcli)
@@ -44,9 +45,8 @@ This tool is heavily relying on the following technologies :
 
 Big thanks to thoses amazing products and the Open Source community!
 
-__Note__: Combining thoses differents technologies into one single application is not an easy task. 
-But I really enjoyed working on this application during my week-end & spare time. 
-It is also rewarding to see how this application helps me to optimize my time while working on Salesforce.
+__Note__: Combining thoses differents technologies into one single application is not an easy task, and I have spend nights troubleshooting thoses integrations.
+However, it is so rewarding to see how this application helps me to optimize my time while working on Salesforce platform.
 
 # Releases Notes
 * Not released
