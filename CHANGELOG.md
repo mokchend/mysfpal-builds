@@ -1,5 +1,11 @@
 # Change Logs
 
+* v0.5.1: 2021-03-27
+  * Add Graphviz support
+
+* v0.4.1: 2021-03-26
+  * Adding code editor support
+
 * v0.3.1: 2021-03-21
   * Add modal About Window
 
