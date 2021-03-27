@@ -1,5 +1,8 @@
 # Change Logs
 
+* v0.6.1: 2021-03-28
+  * Adding Code Coverage Stats
+
 * v0.5.1: 2021-03-27
   * Add Graphviz support
 
