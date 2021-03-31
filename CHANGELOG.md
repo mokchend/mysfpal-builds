@@ -1,5 +1,8 @@
 # Change Logs
 
+* v0.7.1: 2021-03-31
+  * Adding PlantUML generation for lookup relation
+
 * v0.6.1: 2021-03-28
   * Adding Code Coverage Stats
 
