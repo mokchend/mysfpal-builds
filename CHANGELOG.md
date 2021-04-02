@@ -3,6 +3,7 @@
 * v0.7.2 2021-04-02
   * Add in-memory scheduler support
   * Auto refresh current session and keep it alive
+  * Gulp Task execution & output redirected in the renderer process
 
 * v0.7.1: 2021-03-31
   * Adding PlantUML generation for lookup relation
