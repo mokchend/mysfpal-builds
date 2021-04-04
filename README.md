@@ -14,13 +14,13 @@ MySFPal is your toolbox to interact with multiple Salesforce instance from a sin
 As a Salesforce Admin user, I have often use different tools & plugins to connect and interact with 
 all my Salesforce instance (from development, integration,acceptance & production sandbox).
 
-## Why ?
-*  I wanted a tool to easily repeat the same task over differents sandbox in a simple and easy way without 
-the hassle to provide credentials or remember the multitude parameters to provide to the SFDX command line. 
+## Why this tools ?
+* I wanted a single tool (no SFDX command line with their multitude of parameters, no Salesforce AppExchange, with nearly no installation & complex configurations) to easily repeat the same task over differents sandboxes in a simple and secured easy way.
 *  I wanted to keep and maintain my full stack development skills while exploring new technologies & horizon
   
 ## How ?
 A cross platform Multi Page Application to interact with your multiple Salesforce instance.
+A simple executable that work on Windows/Mac (to be tested) and rely on your current SFDX configuration
 
 ## What ?
 This tool is heavily relying on the following technologies :
@@ -45,7 +45,7 @@ This tool is heavily relying on the following technologies :
 
 Big thanks to thoses amazing products and the Open Source community!
 
-__Note__: Combining thoses differents technologies into one single application is not an easy task, and I have spend nights troubleshooting thoses integrations.
+__Note__: Combining thoses differents technologies into one single application is not an easy task, and I have spend days & nights troubleshooting thoses integrations.
 However, it is so rewarding to see how this application helps me to optimize my time while working on Salesforce platform.
 
 # Releases Notes
