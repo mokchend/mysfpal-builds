@@ -1,4 +1,6 @@
 # Change Logs
+* v0.8.0 2021-04-05
+  * hack: Execute a gulp task from renderer process, retrieve the result and display it on the screen. There should be a better way to implement this.
 
 * v0.7.2 2021-04-02
   * Add in-memory scheduler support
