@@ -15,7 +15,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 # Pre-Requisite
-* [sfdx](https://developer.salesforce.com/tools/sfdxcli)
+* [sfdx](https://developer.salesforce.com/tools/sfdxcli) - Working on it to remove this dependency !
 
 # Introduction
 MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
