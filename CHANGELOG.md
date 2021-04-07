@@ -1,4 +1,7 @@
 # Change Logs
+* v0.8.2 2021-04-07
+  * Musing: Network grappes of records
+
 * v0.8.0 2021-04-05
   * hack: Execute a gulp task from renderer process, retrieve the result and display it on the screen. There should be a better way to implement this.
 
