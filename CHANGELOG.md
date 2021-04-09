@@ -2,6 +2,7 @@
 * v0.8.3 2021-04-09
   * Add Logger file from ipcMain & ipcRenderer process
   * Support application configuration file
+  * Synchronize the selected alias (fro mElectron) with the properties config to be reused with gulp tasks
 
 * v0.8.2 2021-04-07
   * Musing: Network grappes of records
