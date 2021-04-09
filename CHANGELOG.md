@@ -3,6 +3,7 @@
   * Add Logger file from ipcMain & ipcRenderer process
   * Support application configuration file
   * Synchronize the selected alias (fro mElectron) with the properties config to be reused with gulp tasks
+  * Update the Cockpit page to handle alias usage (add/search/delete/navigate) and add WIP for others tab
 
 * v0.8.2 2021-04-07
   * Musing: Network grappes of records
