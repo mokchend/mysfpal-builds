@@ -1,3 +1,7 @@
+> No thank you, we're too busy... 
+> We are too busy for a more efficient and user friendly solution. 
+>  #innovation #technology #fullstack
+
 ![No Thanks, We are too busy ...](https://github.com/mokchend/mysfpal-builds/blob/main/WeAreTooBusy.png)
 
 # MySFPal Application Builds
