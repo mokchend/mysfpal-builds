@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 # MySFPal Application Builds
 This app is a proof-of-concept more than anything else.
 
