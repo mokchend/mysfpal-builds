@@ -2,6 +2,7 @@
 * v0.8.4 2021-04-10
   * Add EventBus globally to the app for sibling components communication
   * Add logged header to each components to let the user know which is the current Salesforce alias he/she working on 
+  * Building add alias for Windows only (TODO: need to handle the spawn process differently on Linux & Mac OS system)
 
 * v0.8.3 2021-04-09
   * Add Logger file from ipcMain & ipcRenderer process
