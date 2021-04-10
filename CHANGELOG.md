@@ -1,4 +1,7 @@
 # Change Logs
+* v0.8.4 2021-04-10
+  * Add EventBus globally to the app for sibling component communication
+
 * v0.8.3 2021-04-09
   * Add Logger file from ipcMain & ipcRenderer process
   * Support application configuration file
