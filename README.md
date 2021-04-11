@@ -30,7 +30,7 @@ all my Salesforce instance (from development, integration,acceptance & productio
 
 ## Why this tools ?
 * I wanted a single tool (no SFDX command line with their multitude of parameters, no Salesforce AppExchange, with nearly no installation & complex configurations) to easily repeat the same task over differents sandboxes in a simple and secured easy way.
-*  I wanted to keep and maintain my full stack development skills while exploring new technologies & horizon
+*  As a hobbyist developper, I wanted to keep and maintain my full stack development skills while exploring new technologies & horizons
   
 ## How ?
 A cross platform Multi Page Application to interact with your multiple Salesforce instance.
