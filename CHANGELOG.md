@@ -1,7 +1,8 @@
 # Change Logs
 * v0.8.5 2021-04-11
-  * TODO: remove an alias ?
+  * __TODO__: need ability to remove an alias ?
   * Add toaster message
+  * Add SOQL Query editor functionnality
 
 * v0.8.4 2021-04-10
   * Add EventBus globally to the app for sibling components communication
