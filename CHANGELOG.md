@@ -1,6 +1,8 @@
 # Change Logs
 * v0.8.5 2021-04-12
-  * Standard table result
+  * Standard table result with simple error handling
+  * __TODO__: [Capture the release stats in app itself](https://tooomm.github.io/github-release-stats/?username=mokchend&repository=mysfpal-builds)
+  * 
 
 * v0.8.5 2021-04-11
   * __TODO__: need ability to remove an alias ?
