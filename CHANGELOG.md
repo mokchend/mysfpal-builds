@@ -2,7 +2,8 @@
 * v0.8.5 2021-04-12
   * Standard table result with simple error handling
   * __TODO__: [Capture the release stats in app itself](https://tooomm.github.io/github-release-stats/?username=mokchend&repository=mysfpal-builds)
-  * Refactor & Componentized the SOBjectPlus page
+  * Refactor & Componentized the SObjectPlus page
+  * Redesign the developer workflow experience with SOQL Query : Seach SObject/ SOQL Query / Search by Field Name
 
 * v0.8.5 2021-04-11
   * __TODO__: need ability to remove an alias ?
