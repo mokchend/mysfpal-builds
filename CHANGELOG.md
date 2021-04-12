@@ -1,4 +1,7 @@
 # Change Logs
+* v0.8.5 2021-04-12
+  * Standard table result
+
 * v0.8.5 2021-04-11
   * __TODO__: need ability to remove an alias ?
   * Add toaster message
