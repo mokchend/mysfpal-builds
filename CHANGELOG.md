@@ -1,4 +1,8 @@
 # Change Logs
+* v0.8.6 2021-04-13
+  * Adding Spinner when executing SOQL Query
+
+# Change Logs
 * v0.8.5 2021-04-12
   * Standard table result with simple error handling
   * __TODO__: [Capture the release stats in app itself](https://tooomm.github.io/github-release-stats/?username=mokchend&repository=mysfpal-builds)
