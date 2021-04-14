@@ -1,7 +1,7 @@
 # Change Logs
 * v0.8.6 2021-04-13
   * Adding Spinner when executing SOQL Query
-  * Adding horizontal MultiPane to separate the SOQL Query : scroll results without hiding th query
+  * Adding horizontal MultiPane to separate the SOQL Query Editor & allow to scroll dynamic table results without hiding the query
 
 # Change Logs
 * v0.8.5 2021-04-12
