@@ -1,4 +1,9 @@
 # Change Logs
+* v0.8.7 2021-04-16
+  * Adding Bulk Query support
+  * __TODO__: Exporting SOQL query to a local sqlite2 database to avoid SOQL query limitation (compound, field not supported with simple aggregation
+  * Adding toater functionnality
+
 * v0.8.6 2021-04-13
   * Adding Spinner when executing SOQL Query
   * Adding horizontal MultiPane to separate the SOQL Query Editor & allow to scroll dynamic table results without hiding the query
