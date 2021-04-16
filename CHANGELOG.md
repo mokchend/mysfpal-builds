@@ -1,10 +1,10 @@
 # Change Logs
 * v0.9.0 2021-04-16
   * Adding Bulk Query support
-  * __TODO__: Exporting SOQL query to a local sqlite2 database to avoid SOQL query limitation (compound, field not supported with simple aggregation
   * Adding toaster notification functionnalities
   * __TODO__: Rebuild the Monitor Bulk Data Load Jobs to allow minimal user action to download the batch results or errors
-
+  * __TODO__: Exporting SOQL query to a local sqlite2 database to avoid SOQL query limitation (compound field not supported with simple aggregation)
+  
 * v0.8.6 2021-04-13
   * Adding Spinner when executing SOQL Query
   * Adding horizontal MultiPane to separate the SOQL Query Editor & allow to scroll dynamic table results without hiding the query
