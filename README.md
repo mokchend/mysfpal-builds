@@ -5,10 +5,11 @@
 ![No Thanks, We are too busy ...](https://github.com/mokchend/mysfpal-builds/blob/main/WeAreTooBusy.png)
 
 # MySFPal Application Builds
-This app is a proof-of-concept more than anything else.
+This application is a proof-of-concept more than anything else (Some functionnalities are still work in progress until I really need it)
+The version 1.0.0 should represent a stable (& usable) version, with all tests validated and require no dependencies to be installed.
 
 __Disclaimer__: 
-I've worked on this application on my free/spare time since March 2021 and it's been a great experience turning my full stack development skills into action.
+I've worked on this application on my free/spare time since March 2021 and it has been a great experience turning my full stack development skills into action.
 This app represent a reflection of my current thinking and is develop solely based on my own needs & requirements :-) 
 The views expressed in this document are those of the author(s) and do not represent the views of Salesforce, nor other companies (directly or indirectly) associated with the author.
 
