@@ -4,7 +4,7 @@
   * Refactor application properties to better structure the default application configuration
   * Synchronize the GUI Alias selection with application properties via store.onDidChange event handler
   * Remove the global/system/OS sfdx & gulp dependencies
-  * __TODO__: When no alias exist, the application fail to run. Display a message to the user to register an alias.
+  * When no alias exist (or defined in your system), the application fail to run. Instead, display a message to the user to register an alias and hide the pane "Alias Selector" & "Navigate To".
 
 * v0.9.0 2021-04-16
   * Adding Bulk Query support
