@@ -1,4 +1,9 @@
 # Change Logs
+* v0.9.1 2021-04-18
+  * Adding support gulp 4 tasks with parameters using minimist
+  * Refactor application properties to better structure the default application configuration
+  * Synchronize the GUI Alias selection with application properties via store.onDidChange event handler
+
 * v0.9.0 2021-04-16
   * Adding Bulk Query support
   * Adding toaster notification functionnalities
