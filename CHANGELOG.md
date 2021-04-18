@@ -3,6 +3,8 @@
   * Adding support gulp 4 tasks with parameters using minimist
   * Refactor application properties to better structure the default application configuration
   * Synchronize the GUI Alias selection with application properties via store.onDidChange event handler
+  * Remove the global/system/OS sfdx & gulp dependencies
+  * __TODO__: When no alias exist, the application fail to run. Display a message to the user to register an alias.
 
 * v0.9.0 2021-04-16
   * Adding Bulk Query support
@@ -35,7 +37,7 @@
 * v0.8.3 2021-04-09
   * Add Logger file from ipcMain & ipcRenderer process
   * Support application configuration file
-  * Synchronize the selected alias (fro mElectron) with the properties config to be reused with gulp tasks
+  * Synchronize the selected alias (from Electron) with the properties config to be reused with gulp tasks
   * Update the Cockpit page to handle alias usage (add/search/delete/navigate) and add WIP for others tab
 
 * v0.8.2 2021-04-07
