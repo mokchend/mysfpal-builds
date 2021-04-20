@@ -1,4 +1,10 @@
 # Change Logs
+* v0.9.2 2021-04-21
+  * __WIP__ : Improve Gulp tasks call from Main Process - Tasks SOQL to DB and call it from Electron
+  * Dynamic DB Bulk Insert
+  * EventLog File download
+  * __TODO__ : Improve Gulp Task to signal the end of the task to the main process 
+
 * v0.9.1 2021-04-18
   * Adding support gulp 4 tasks with parameters using minimist
   * Refactor application properties to better structure the default application configuration
