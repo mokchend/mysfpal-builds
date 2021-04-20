@@ -22,8 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 # Pre-Requisite
-* Global [sfdx](https://developer.salesforce.com/tools/sfdxcli) is no longer required - This dependency has been finally removed :-)
-* Same for global gulp command 
+* No dependencies
+* __Notes__: Global [sfdx](https://developer.salesforce.com/tools/sfdxcli) is no longer required - This dependency has been finally removed. Same applied for global gulp command 
 
 # Introduction
 MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
