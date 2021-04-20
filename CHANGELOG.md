@@ -5,7 +5,7 @@
   * Synchronize the GUI Alias selection with application properties via store.onDidChange event handler
   * Remove the global/system/OS sfdx & gulp dependencies
   * When no alias exist (or defined in your system), the application fail to run. Instead, display a message to the user to register an alias and hide the pane "Alias Selector" & "Navigate To".
-  * Adding build support for linux/mac OS
+  * __WIP__:Adding build support for linux/mac OS
 
 * v0.9.0 2021-04-16
   * Adding Bulk Query support
