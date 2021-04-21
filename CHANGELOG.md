@@ -3,6 +3,7 @@
   * __WIP__ : Improve Gulp tasks call from Main Process - Tasks SOQL to DB and call it from Electron
   * Dynamic DB Bulk Insert
   * EventLog File download
+  * Add jsforce Api version support: update globally the json config when alias is selected
   * __TODO__ : Improve Gulp Task to signal the end of the task to the main process 
 
 * v0.9.1 2021-04-18
