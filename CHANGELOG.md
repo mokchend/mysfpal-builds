@@ -1,6 +1,8 @@
 # Change Logs
 * v0.9.2 2021-04-21
   * __WIP__ : Improve Gulp tasks call from Main Process - Tasks SOQL to DB and call it from Electron
+  * __TODO__ : Windows limitation when SOQL query is larger than 255 characteres (The command line is too long).
+  * __TODO__ : Using SQLite from the main Process generate "uncaughtException:Please install sqlite3 package manually"
   * Dynamic DB Bulk Insert
   * EventLog File download
   * Add jsforce Api version support: update globally the json config when alias is selected 
