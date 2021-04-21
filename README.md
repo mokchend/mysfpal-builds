@@ -58,6 +58,8 @@ This tool is heavily relying on the following technologies :
 > The PHP Framework for Web Artisans (for the back end)
 * [Node JS](https://nodejs.org/en/)
 > Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [SQLite 3](https://www.sqlite.org/)
+> SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
 
 Big thanks to thoses amazing products and the Open Source community!
 
