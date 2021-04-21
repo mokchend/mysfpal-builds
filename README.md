@@ -55,7 +55,7 @@ This tool is heavily relying on the following technologies :
 * [Taildwindcss](https://tailwindcss.com/)
 > Rapidly build modern websites without ever leaving your HTML.
 * [Laravel](https://laravel.com/)
-> The PHP Framework for Web Artisans (for the back end)
+> The PHP Framework for Web Artisans (for future back end implementation)
 * [Node JS](https://nodejs.org/en/)
 > Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [SQLite 3](https://www.sqlite.org/)
