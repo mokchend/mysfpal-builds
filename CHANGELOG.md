@@ -1,16 +1,17 @@
 # Change Logs
+
 * v0.9.2 2021-04-21
   * Adding log4j support to capture debugs / error message for a better troubleshooting. 
   * __TODO__ : Remove all console.log / console.dir in the code 
-  * __WIP__ : Improve Gulp tasks call from Main Process - Tasks SOQL to DB and call it from Electron
-  * __TODO__ : Windows limitation when SOQL query is larger than 255 characteres (The command line is too long).
+  * Improve Gulp tasks (SOQL2DB) call from Main Process
+  * Windows limitation when SOQL query is larger than 255 characteres (The command line is too long).
   * __TODO__ : Using SQLite from the main Process generate "uncaughtException:Please install sqlite3 package manually"
-  * Dynamic DB Bulk Insert
+  * Dynamic DB Bulk Insert - support JSON result and compound fields
   * EventLog File download
   * Add jsforce Api version support: update globally the json config when alias is selected 
   * __TODO__ : Synch sfdx apiVersion and jsforce apiVersion to have a consistent experience & results
   * __TODO__ : Improve Gulp Task to signal the end of the task to the main process 
-  * __TODO__ : Datatypes in sqlite3 are varchar/string - Can be improved to mapped the right data types from SF Sobject metadatas
+  * __TODO__ : Datatypes in sqlite3 are varchar/string only + JSON - Can be improved to mapped the right data types from SF Sobject metadatas
 
 * v0.9.1 2021-04-18
   * Adding support gulp 4 tasks with parameters using minimist
