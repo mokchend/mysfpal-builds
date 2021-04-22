@@ -1,4 +1,6 @@
 # Change Logs
+* v0.9.3 2021-04-22
+  * Adding SOAP support
 
 * v0.9.2 2021-04-21
   * Adding log4j support to capture debugs / error message for a better troubleshooting. 
