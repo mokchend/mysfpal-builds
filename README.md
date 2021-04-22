@@ -1,5 +1,6 @@
 > No thank you, we're too busy... 
-> We are too busy for a more efficient and user friendly solution. 
+> We are too busy for a more efficient and user friendly solution.
+> 
 > #KISS #innovation #fullstack #technology #fun
 
 ![No Thanks, We are too busy ...](https://github.com/mokchend/mysfpal-builds/blob/main/WeAreTooBusy.png)
