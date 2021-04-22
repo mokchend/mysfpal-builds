@@ -68,5 +68,5 @@ __Note__: Combining thoses differents technologies into one single application i
 
 
  
-# Releases Notes
-* Not released
+# Releases
+* Not Released Yet
