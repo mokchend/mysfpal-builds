@@ -22,11 +22,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+
 # Audience
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+This tools can target the following role in Salesforce Community:
+- Business or Technical consultant
+- Business Architect
+- System Administrator
+- Technical/Program Architect
+- Technical Account Manager
+ 
+# Functionnalities / Completion percentage
+- Password less sandboxes connexion (but as secure as sfdx command line) - 100%
+- Common Task automation (Metabackups & Analysis) - WIP 50%
+- DB Replicator - SQLite DB support to extend SOQL limitation by using real SQL joins for quick org metric analysis - WIP 90%
+- UML Schema Browser - WIP 90%
+- Role/Group Hierarchy Browser - WIP 60%
+- SObject & SOQL Plus - WIP 80%
+- Recent List of Metadata Changes - 100%
+- Metadatas & records dependencies - WIP 80%
+- Neo4J Integration - WIP 50%
+- Copado US dependencies analyzer - WIP 80%
 
 # Pre-Requisite
 * No dependencies, just an executable and you are good to go !
@@ -39,10 +54,6 @@ As a Salesforce Admin user, I have often use different tools & plugins to connec
 all my Salesforce instance (from development, integration,acceptance & production sandbox).
 I want a tools that is simple & easy to use (#KISS) and do not require libraries, languages or command line dependencies to be installed on my computer. 
 
-This tools can target the following role Salesforce Community:
-- Business Architect
-- Technical/Program Architect
-- System Administrator
 
 
 ## Why this tools ?
