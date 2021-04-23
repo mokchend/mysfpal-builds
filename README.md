@@ -90,7 +90,7 @@ This tool is heavily relying on the following technologies :
 
 Big thanks to thoses amazing products and the Open Source community!
 
-__Note__: Combining thoses differents technologies into one single application is not an easy task, and I have long nights, spend days & weekends troubleshooting thoses integrations. However, it is so rewarding to see how this application helps me to optimize my time and become more efficient while working on Salesforce platform.
+__Note__: Combining thoses differents technologies into one single application is not an easy task, and I have long nights, spend days & weekends troubleshooting thoses integrations. However, it is so rewarding to see how this application helps me to optimize my time and become more efficient &productive while working on Salesforce platform.
  
 # Releases
 * Not Released Yet
