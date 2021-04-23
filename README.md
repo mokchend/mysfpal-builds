@@ -42,7 +42,7 @@ This tools can target the following role in Salesforce Community:
 - Password less sandboxes connexion (but as secure as sfdx command line on your computer) - 100%
 - Most used link access in one click - 100%
 - Recent List of Metadata Changes - 100%
-- On-Demand SQLite DB Replicator support: extend SOQL limitation by using real SQL joins for quick data analysis & discovery - WIP 90%
+- On-Demand SQLite DB Replicator support: extend SOQL limitation by using real SQL joins for quick data analysis & discovery (3.8M records in 35mn) - WIP 90%
 - UML Schema Browser - WIP 90%
 - Copado US dependencies analyzer (require NEO4J instance) - WIP 80%
 - Metadatas & records dependencies - WIP 80%
