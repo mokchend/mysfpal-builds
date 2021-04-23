@@ -33,7 +33,7 @@ This tools can target the following role in Salesforce Community:
  
 # Functionnalities / Completion percentage
 - Password less sandboxes connexion (but as secure as sfdx command line) - 100%
- - xxx  
+-- xxx  
 - Common Task automation (Metabackups & Analysis) - WIP 50%
 - DB Replicator - SQLite DB support to extend SOQL limitation by using real SQL joins for quick org metric analysis - WIP 90%
 - UML Schema Browser - WIP 90%
