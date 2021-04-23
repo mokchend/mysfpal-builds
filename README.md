@@ -50,6 +50,8 @@ This tools can target the following role in Salesforce Community:
 - Role/Group Hierarchy Browser - WIP 60%
 - Common Task automation (Metabackups & Analysis) - WIP 50%
 - Neo4J Integration - WIP 50%
+- MetaData Backups & Org info / limits gathering scheduler - WIP 50%
+- Auto upgrade application - WIP 50%
 
 # Pre-Requisite
 * No dependencies, just an executable and you are good to go !
