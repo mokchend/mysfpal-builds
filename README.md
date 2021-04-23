@@ -22,9 +22,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+# Audience
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 # Pre-Requisite
-* No dependencies
-* Salesforce System Admin (or equivalent) profile 
+* No dependencies, just an executable and you are good to go !
+* Salesforce System Admin (or equivalent) profile to access your Salesforce sandboxes
 
 
 # Introduction
