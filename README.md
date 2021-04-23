@@ -24,12 +24,20 @@ THE SOFTWARE.
 
 # Pre-Requisite
 * No dependencies
-* __Notes__: Global [sfdx](https://developer.salesforce.com/tools/sfdxcli) is no longer required - This dependency has been finally removed. Same applied for global gulp command 
+* Salesforce System Admin (or equivalent) profile 
+
 
 # Introduction
-MySFPal is your toolbox to interact with multiple Salesforce instance from a single application.
-As a Salesforce Admin user, I have often use different tools & plugins to connect and interact with 
+MySFPal is your toolbox to manage multiple Salesforce instance from a single & multi-platform application.
+As a Salesforce Admin user, I have often use different tools & plugins to connect and manage 
 all my Salesforce instance (from development, integration,acceptance & production sandbox).
+I want a tools that is simple & easy to use (#KISS) and do not require libraries, languages or command line dependencies to be installed on my computer. 
+
+This tools can target the following role Salesforce Community:
+- Business Architect
+- Technical/Program Architect
+- System Administrator
+
 
 ## Why this tools ?
 * I wanted a single tool (no SFDX command line with their multitude of parameters, no Salesforce AppExchange, with nearly no installation & complex configurations) to easily repeat the same task over differents sandboxes in a simple and secured easy way.
