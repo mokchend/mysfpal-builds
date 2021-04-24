@@ -34,7 +34,6 @@
   * Adding Spinner when executing SOQL Query
   * Adding horizontal MultiPane to separate the SOQL Query Editor & allow to scroll dynamic table results without hiding the query
 
-# Change Logs
 * v0.8.5 2021-04-12
   * Standard table result with simple error handling
   * __TODO__: [Capture the release stats in app itself](https://tooomm.github.io/github-release-stats/?username=mokchend&repository=mysfpal-builds)
