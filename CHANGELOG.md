@@ -2,6 +2,7 @@
 * v0.9.3 2021-04-24
   * __WIP__: Adding SOAP support
   * __WIP__: Full Metadata Backups, Full Profile & permission set extraction
+  * __WIP__: Daily Auto-schedule Metdata Backup from a configurable configuration
 
 * v0.9.2 2021-04-21
   * Adding log4j support to capture debugs / error message for a better troubleshooting. 
