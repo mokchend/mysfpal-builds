@@ -1,4 +1,8 @@
 # Change Logs
+* v0.9.3 2021-04-26
+  * Passwordless SOAP support
+  * Build Sample code calling SOAP Web Methods: login, findDuplicates, findDuplicatesByIds, query
+
 * v0.9.3 2021-04-24
   * __WIP__: Adding SOAP support
   * __WIP__: Full Metadata Backups, Full Profile & permission set extraction
