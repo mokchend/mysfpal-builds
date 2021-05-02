@@ -1,4 +1,10 @@
 # Change Logs
+* v0.9.4 2021-05-02
+  * Build Ubuntu & Mac OSX VM to generate builds for theses OS
+  * Build scripts for Ubuntu Linux and Mac OSX - 64 bits
+  * Better Error handling when alias do not exist on a brand new OS
+  * All data01 folder and mysfpal-config.json now reside in the home directory of the user to allow OS portability
+
 * v0.9.3 2021-04-26
   * Passwordless SOAP support
   * Build Sample code calling SOAP Web Methods: login, findDuplicates, findDuplicatesByIds, query
