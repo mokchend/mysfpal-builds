@@ -3,6 +3,7 @@
   * Ubuntu, Mac OSX, Windows VM to handle the build the factory - __TODO__ : trigger a WebHook to build on code commit, check how to bundle Linux build
   * Support a clean (e.g no sfdx aliases defined) in your OS, Hide Menu Item when no alias defined
   * Add support Development Build versus Production Build - __TODO__ : pluginOptions.electronBuilder.builderOptions.asar = false : not recommended build, but having issue to use program defined in node_modules when use ASAR bundle. Drawback is that build process is slower but solve the needs to have sfdx ou gulp installed by the end user.
+  (asar usage is disabled — this is strongly not recommended  solution=enable asar and use asarUnpack to unpack files that must be externally available)
   * Refactor the way sfdx commands are called as behavior from Development or Production Build are not working the same way (differents path execution). Needs to complexify the code to handle this situation. __TODO__ : Find a better way to implement it
   * Automatic application update when publishing a new version
   * Centralized log, improve error handling (a virgin OS: Mac & Windows) to catch/trap unhandled errors
