@@ -5,8 +5,8 @@
   * Add support Development Build versus Production Build - __TODO__ : pluginOptions.electronBuilder.builderOptions.asar = false : not recommended build, but having issue to use program defined in node_modules when use ASAR bundle. Drawback is that build process is slower but solve the needs to have sfdx ou gulp installed by the end user.
   * Refactor the way sfdx commands are called as behavior from Development or Production Build are not working the same way (differents path execution). Needs to complexify the code to handle this situation. __TODO__ : Find a better way to implement it
   * Automatic application update when publishing a new version
-  * Centralized log, improve error handling (a virgin OS) to catch/trap unhandled errors 
- 
+  * Centralized log, improve error handling (a virgin OS) to catch/trap unhandled errors
+  * Update About vue form to display if we are in Development or Production Build.
 
 * v0.9.4 2021-05-02
   * Build Ubuntu & Mac OSX VM to generate builds for theses OS
