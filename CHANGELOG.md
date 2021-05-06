@@ -7,6 +7,7 @@
   * Automatic application update when publishing a new version
   * Centralized log, improve error handling (a virgin OS: Mac & Windows) to catch/trap unhandled errors
   * Update About vue form to display if we are in Development or Production Build.
+  * __WARNING__: Move local files/backups/temporary zone to $HOME/data01, consistent $HOME/mysfpal.log and $HOME/mysfpal-config.json to avoid zero configuration from the end user
 
 * v0.9.4 2021-05-02
   * Build Ubuntu & Mac OSX VM to generate builds for theses OS
