@@ -26,8 +26,8 @@ THE SOFTWARE.
 MySFPal is your toolbox to administer multiple Salesforce instance from a single & multi-platform application.
 As a Salesforce Admin user, I have often use different tools & plugins to connect and manage  all my Salesforce 
 instance (from development, integration,acceptance & production sandbox).
-I want a tools that is simple & easy to use (#KISS) and do not require libraries, language or any command line dependencies 
-to be installed on my computer. 
+I want a tool that is simple & easy to use (#KISS) and do not require external libraries/language, any command line dependencies 
+or any App Exchange to be installed or configured. 
 
 # Audience
 This tools can target the following role in Salesforce Community:
