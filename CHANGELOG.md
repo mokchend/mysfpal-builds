@@ -1,4 +1,10 @@
 # Change Logs
+* v0.9.6 2021-05-06
+  * Refactor & modularize code (log4j)
+  * Optimize call to open an URL (avoid sfdx heavy call)  
+  * Document usage/use case based on CSG collegue feedbacks
+
+
 * v0.9.5 2021-05-06
   * Ubuntu, Mac OSX, Windows VM to handle the build the factory - __TODO__ : trigger a WebHook to build on code commit, check how to bundle Linux build
   * Support a clean (e.g no sfdx aliases defined) in your OS, Hide Menu Item when no alias defined
