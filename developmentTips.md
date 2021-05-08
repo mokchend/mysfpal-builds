@@ -1,5 +1,4 @@
-__Dev runtime:  yarn electron:serve__
->>> SFDX Command found => OK
+__Dev runtime:  yarn electron:serve__ : SFDX Command found => OK
 ```
 [2021-05-08T13:36:51.673] [DEBUG] mysfpal - app.getAppPath(): C:\code\mysfpal-demo-builds\dist_electron
 [2021-05-08T13:36:51.673] [DEBUG] mysfpal - __dirname: C:\code\mysfpal-demo-builds\dist_electron
@@ -9,8 +8,8 @@ __Dev runtime:  yarn electron:serve__
 
  __yarn electron:build__
 
-Combinaison 1/ Unpacked
-& '.\dist_electron\win-unpacked\My Salesforce Pal Demo Builds.exe' : SFDX Command found => OK
+Combinaison 1/ Unpacked : SFDX Command found => OK
+& '.\dist_electron\win-unpacked\My Salesforce Pal Demo Builds.exe' 
 ```
 "C:\code\mysfpal-demo-builds\dist_electron\win-unpacked\My Salesforce Pal Demo Builds.exe"
 [2021-05-08T13:42:19.160] [DEBUG] mysfpal - app.getAppPath(): C:\code\mysfpal-demo-builds\dist_electron\win-unpacked\resources\app.asar
@@ -19,7 +18,7 @@ Combinaison 1/ Unpacked
 [2021-05-08T13:42:19.160] [DEBUG] mysfpal - process.resourcesPath: C:\code\mysfpal-demo-builds\dist_electron\win-unpacked\resources
 ```
 
-Combinaison 2/ Setup Installation : SFDX Command not found - SFDX Command found => KO
+Combinaison 2/ Setup Installation : SFDX Command found => KO
 ```
 "C:\code\mysfpal-demo-builds\dist_electron\My Salesforce Pal Demo Builds Setup 0.1.0.exe"
 [2021-05-08T13:45:56.477] [DEBUG] mysfpal - app.getAppPath(): C:\Users\cmok\AppData\Local\Programs\mysfpal-demo-builds\resources\app.asar
