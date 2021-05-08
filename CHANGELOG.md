@@ -1,8 +1,10 @@
 # Change Logs
 * v0.9.6 2021-05-06
-  * Refactor & modularize code (log4j)
-  * Optimize call to open an URL (avoid sfdx heavy call)  
-  * Document usage/use case based on CSG collegue feedbacks
+  * Refactor & modularize code (log4j, sfdx command executor)
+  * Optimize call to open an URL without using calling sfdx
+  * Document usage/use case based on feedbacks from CSG collegue 
+  * Add support to monitor Scratch & Non ScratchOrg
+  * ASAR packaging is finally working: use the builderOptions.extraResources to package the needed assets outside the ASAR file
 
 
 * v0.9.5 2021-05-06
