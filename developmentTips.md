@@ -1,3 +1,25 @@
+
+# Installation is extremely slow
+* __TODO__ : Using electron-builder is slow due to the fact that I try to hack the installer by adding sfdx-cli node as an external dependency. This work great but the drawback is that installer took  10 mn to install a simple hello World application ?!
+```
+let fullPathCommandSfdx = is.dev()
+  ? process.cwd() + `/node_modules/sfdx-cli/bin/run`
+  : //: `${process.resourcesPath}/node_modules/sfdx-cli/bin/run`; // this is working except in build mode
+    "`${process.resourcesPath}/tools/node_modules/sfdx-cli/bin/run`"; // work in build/installer mode
+```
+* Configuration vue.config.js
+```
+      builderOptions: {
+        appId: "mysfpal-demo-builds-id",
+        productName: "My Salesforce Pal Demo Builds",
+        // Copy this folder outisde and above the asar file
+        // https://github.com/nklayman/vue-cli-plugin-electron-builder/issues/1355
+        extraResources: ["./tools"],
+
+        asar: true,
+```
+
+# Packaging Issue
 __Dev runtime:  yarn electron:serve__ : SFDX Command found => OK
 ```
 [2021-05-08T13:36:51.673] [DEBUG] mysfpal - app.getAppPath(): C:\code\mysfpal-demo-builds\dist_electron
