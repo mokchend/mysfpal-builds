@@ -1,6 +1,6 @@
 
 # Installation is extremely slow
-* __TODO__ : Using electron-builder is slow due to the fact that I try to hack the installer by adding sfdx-cli node as an external dependency. This work great but the drawback is that installer took  10 mn to install a simple hello World application ?!
+* __TODO__ : Using electron-builder is slow due to the fact that I try to hack the installer by adding sfdx-cli node as an external dependency. This work great but the drawback is that installer took  11 mn to install a simple hello World application (and 5 mn to build it ?!) ?!
 ```
 let fullPathCommandSfdx = is.dev()
   ? process.cwd() + `/node_modules/sfdx-cli/bin/run`
