@@ -30,12 +30,11 @@ I want a tool that is simple & easy to use (#KISS) and do not require external l
 or any App Exchange to be installed or configured. 
 
 # Audience
-This tools can target the following role in Salesforce Community:
-- Business or Technical consultant
-- Business Architect
-- System Administrator
-- Technical/Program Architect
-- Technical Account Manager
+This tools can target the following role in __Salesforce Community__:
+- Business consultant or Business Architect
+- Developper / System Administrator
+- Technical/Program Architect / Technical Account Manager
+-
  
 # Functionnalities / Completion percentage
 - List all aliases created by your SDFX command line and display usefull information - 100%
