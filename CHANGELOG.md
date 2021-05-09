@@ -5,6 +5,7 @@
   * Document usage/use case based on feedbacks from CSG collegue 
   * Add support to monitor Scratch & Non ScratchOrg
   * ASAR packaging is finally working: use the builderOptions.extraResources to package the needed assets outside the ASAR file
+  * Adding sfdx-cli version in the LoggedAs component
   * Remove npm sfdx-cli dependancy as production build not able to call this command line. Workaround is to try auto-discover the SFDX installation. Advantage is that Build size reduce from 50Mb. __TO_BE_IMPROVED__ 
 
 
