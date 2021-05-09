@@ -1,10 +1,11 @@
 # Change Logs
-* v0.9.6 2021-05-08
+* v0.9.6 2021-05-09
   * Refactor & modularize code (log4j, sfdx command executor)
   * Optimize call to open an URL without using calling sfdx
   * Document usage/use case based on feedbacks from CSG collegue 
   * Add support to monitor Scratch & Non ScratchOrg
   * ASAR packaging is finally working: use the builderOptions.extraResources to package the needed assets outside the ASAR file
+  * Remove npm sfdx-cli dependancy as production build not able to call this command line. Workaround is to try auto-discover the SFDX installation. Advantage is that Build size reduce from 50Mb. __TO_BE_IMPROVED__ 
 
 
 * v0.9.5 2021-05-06
