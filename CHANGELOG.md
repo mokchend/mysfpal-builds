@@ -1,5 +1,10 @@
 # Change Logs
-* v0.9.6 2021-05-10
+* v0.9.7 2021-05-10
+  * Ability to select which SFDX version to used and persist the user preference in __$HOME/mysfpal-config.json__. If the app is started for the first time and not alias has been defined, a dialog will appears to select the SFDX command location. Add modal dialogBox to select the SFDX Command. Will loop until a valid selection is made by user.
+  * Refactor & modularized autoload.js to avoid overload & useless calls/initialization : __HUGE_IMPACT__ on the existing code.
+  
+
+* v0.9.6 2021-05-09
   * Refactor & modularize code (log4j, sfdx command executor)
   * Optimize call to open an URL without using calling sfdx
   * Document usage/use case based on feedbacks from CSG collegue 
@@ -7,9 +12,7 @@
   * ASAR packaging is finally working: use the builderOptions.extraResources to package the needed assets outside the ASAR file
   * Adding sfdx-cli version in the LoggedAs component
   * Remove npm sfdx-cli dependancy as production build not able to call this command line. Workaround is to try auto-discover the SFDX installation. Advantage is that Build size reduce from 50Mb. __TO_BE_IMPROVED__ 
-  * Ability to select which SFDX version to used and persist the user preference in __$HOME/mysfpal-config.json__. If the app is started for the first time and not alias has been defined, a dialog will appears to select the SFDX command location. Add modal dialogBox to select the SFDX Command. Will loop until a valid selection is made by user.
-  * Refactor & modularized autoload.js to avoid overload & useless calls/initialization : __HUGE_IMPACT__ on the existing code.
-
+  
 
 * v0.9.5 2021-05-06
   * Ubuntu, Mac OSX, Windows VM to handle the build the factory - __TODO__ : trigger a WebHook to build on code commit, check how to bundle Linux build
