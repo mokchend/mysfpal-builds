@@ -3,6 +3,8 @@
   * Ability to select which SFDX version to used and persist the user preference in __$HOME/mysfpal-config.json__. If the app is started for the first time and not alias has been defined, a dialog will appears to select the SFDX command location. Add modal dialogBox to select the SFDX Command. Will loop until a valid selection is made by user.
   * Refactor & modularized autoload.js to avoid overload & useless calls/initialization : __HUGE_IMPACT__ on the existing code
   * Remove sfpowerkit dependencies
+  * __TODO__ : Avoid restarting the app after adding/registering an alias. As a workaround solution, use restart accelerator or File|Restart
+
 
 * v0.9.6 2021-05-09
   * Refactor & modularize code (log4j, sfdx command executor)
