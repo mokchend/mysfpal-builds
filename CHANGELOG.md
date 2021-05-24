@@ -1,4 +1,9 @@
 # Change Logs
+
+* v1.0.0 2021-05-24
+  * __BREAKING CHANGE__: Introduce new architecture: Salesforce Org as cloud Front-End development with LWC, Electron as Back End & Front End & MySFPal-plugins as back-end service extension. __TODO__: Do i need to add Heroku for back end service exposure ?
+  * This architecture will perform well and provide an easier & faster UI developmentchanges thanks to the Salesforce Platform. It will also benefits from __all expended capabilities__ offered by the platform.
+
 * v0.9.9 2021-05-15
   * Adding Chart.js demo support
 
